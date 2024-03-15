@@ -5,7 +5,7 @@ Mbed Studio is a valuable tool for developing code on Mbed OS and supported boar
 ## Update Procedure
 
 - Ensure Mbed Studio is closed before proceeding.
-- Download both the Nuvoton.NuMicro_DFP...pack and cmsis_pack.json files required for this update.
+- Download both the __Nuvoton.NuMicro_DFP...pack__ and __cmsis_pack.json__ files required for this update.
 - Copy these two downloaded files to the designated directory on your system:
 
 __For Windows Users__
